@@ -30,3 +30,8 @@ To run these solutions, you can simply copy and paste the code into the LeetCode
 Contributions to this repository are welcome. If you would like to contribute a solution, please make sure to follow the [contribution guidelines](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/contribution_guidlines.md).
 
 Please ensure that your contributions adhere to our [code of conduct](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/code_of_conduct.md).
+
+
+## License
+
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/license) file for details.
