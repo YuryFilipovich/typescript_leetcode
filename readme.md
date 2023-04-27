@@ -13,7 +13,7 @@ To run these solutions, you can simply copy and paste the code into the LeetCode
 | 9 | Palindrome Number | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/9_palindrome_number.ts) | [Link](https://leetcode.com/problems/palindrome-number/) |
 | 20 | Palindrome Number | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/20_valid_parentheses.ts) | [Link](https://leetcode.com/problems/valid-parentheses/) |
 | 485 | Max Consecutive Ones | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/485_max_consecutive_ones.ts) | [Link](https://leetcode.com/problems/max-consecutive-ones/) |
-| 509 | Fibonacci Number | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/509_fibonacci_number.ts) | [Link](https://leetcode.com/problems/fibonacci-number/) |
+| 509 | Fibonacci Number | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/509_fibonacci_number.ts) | [Link](https://leetcode.com/problems/fibonacci-number/) |
 | 704 | Binary Search | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/704_binary_search.ts) | [Link](https://leetcode.com/problems/binary-search/) |
 | 709 | To Lower Case | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/709_to_lower_case.ts) | [Link](https://leetcode.com/problems/to-lower-case/) |
 | 771 | Jewels and Stones | [Link](https://github.com/YuryFilipovich/typescript_leetcode/blob/master/solutions/771_jewels_and_stones.ts) | [Link](https://leetcode.com/problems/jewels-and-stones/) |
